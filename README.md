@@ -1,32 +1,88 @@
-# Data-Structures-and-Algorithms
-In This Repository Which is Data Structures and Algorithms, i will provide you to practicals code 
+# Data Structures and Algorithms Solutions Repository
 
-List of Practical
+Explore a collection of my solutions to coding problems from Geeks for Geeks, LeetCode, HackerRank, and more. This repository is a dedicated space for implementing and understanding essential data structures and algorithms. Happy coding!
+
+> **Note:- Not All Solutions are yet available, but they will soon! So Make Sure to Star ⭐ this repository. if you want to contribute then fork this repository**
+
+# Table of Contents
+
+- [Data Structures and Algorithms Solutions Repository](#data-structures-and-algorithms-solutions-repository)
+    - [Overview](#overview)
+    - [Repository Structure](#repository-structure)
+    - [Key Features](#key-features)
+    - [License](#license)
+    - [Contribution](#contribution)
+    - [Happy Coding!](#happy-coding)
+  
+
+## Overview
+
+Welcome to the Data Structures and Algorithms repository! This collection houses my solutions to coding problems sourced from Geeks for Geeks, LeetCode, HackerRank, and more. The repository focuses on implementing and understanding fundamental data structures and algorithms, providing a comprehensive resource for learning and reference.
+
+## Repository Structure
+
+    Data-Structures-and-Algorithms-Solutions/
+    |-- LeetCode/
+    |   |-- CPlus/
+    |   |   |-- Easy/
+    |   |   |   |-- Problem Names/
+    |   |   |   |   |-- Solution.cpp
+    |   |   |   |   |-- Explanation.md
+    |   |   |   |   |-- README.md
+    |   |   |   |   |-- Test.cpp
+    |   |   |   |   |-- Question.md
+    |   |   |-- Medium/
+    |   |   |   |-- Problem Names/
+    |   |   |   |   |-- Solution.cpp
+    |   |   |   |   |-- Explanation.md
+    |   |   |   |   |-- README.md
+    |   |   |   |   |-- Test.cpp
+    |   |   |   |   |-- Question.md
+    |   |   |-- Hard/
+    |   |   |   |-- Problem Names/
+    |   |   |   |   |-- Solution.cpp
+    |   |   |   |   |-- Explanation.md
+    |   |   |   |   |-- README.md
+    |   |   |   |   |-- Test.cpp
+    |   |   |   |   |-- Question.md
+    |-- .gitignore
+    |-- CODE_OF_CONDUCT.md
+    |-- CONTRIBUTING.md
+    |-- CMakeLists.txt
+    |-- LICENSE.md
+    |-- README.md
 
 
-01- Write a program to search an element using linear &
-binary search
 
-02- Write a program to search an element in the array using
-recursive Binary Search.
+| Directory/File              | Description                          |
+|-----------------------------|--------------------------------------|
+| `LeetCode/`                 | All solutions for LeetCode problems. |
+| `CONTRIBUTING.md`           | Guidelines for contributors.         |
+| `LICENSE.md`                | The license for the repository.      |
+| `README.md`                 | Main documentation file.             |
 
-03- Write a program to implement bubble sort.
 
-04- Write a program to implement selection sort.
+## Key Features
 
-05- Write a program to implement stack & queue using
-array.
+- **Wide Coverage:** Solutions to diverse coding problems from Geeks for Geeks, LeetCode, and HackerRank.
+- **Core Concepts:** In-depth implementation of essential data structures (arrays, linked lists, trees, graphs) and algorithms (sorting, searching, optimization).
+- **Organized Structure:** Problems are categorized for easy navigation, enabling quick access to specific DSA topics.
+- **Detailed Explanation:** A detailed explanation of the approach, implementation, and time/space complexity accompanies each solution.
+- **Implementation:** All solutions can be compiled and run locally using CMake, allowing easy testing and modification.
 
-06- Write a program to insert & delete an element at any
-position in singly linked list.
 
-07- Write a program to insert & delete an element at any
-position in doubly linked list. 
+## License
 
-08- Write a program to find the inorder, preorder and
-postorder traversal of a binary tree.
+This project is licensed under the terms of the **MIT License** - see the [LICENSE](./LICENSE) file for details.
 
-09- Write a C Program to implement Breadth First Search
-(BFS) and Depth first search (DFS) in graph.
- 
-10- Write a C program to implement Hashing Techniques.
+
+## Contribution
+
+Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines and make sure to follow the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). If you identify issues, have improvements to suggest, or want to add your solutions, feel free to create a pull request. This collaborative effort aims to create a robust resource for the programming community.
+
+## Happy Coding!
+
+Feel free to explore, learn, and contribute. Happy coding, and may your journey through data structures and algorithms be both enjoyable and rewarding!
+
+
+
